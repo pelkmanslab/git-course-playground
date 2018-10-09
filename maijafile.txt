@@ -5,6 +5,13 @@ Leave it alone. It's only hers!
 Absolutely true!
 
 Not anymore. I claim this textfile in the name of King Stannis Baratheon first of his name.
+<<<<<<< HEAD
+
+
+
+blahblah hblalalallalalllalalalalalalalalal
+=======
 Winter is coming.
 
 Hear our roar!
+>>>>>>> deacba62cb38cba114564e223e5be0ba6776595c
