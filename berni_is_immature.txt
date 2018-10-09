@@ -1,4 +1,11 @@
 Everyone who agrees sign there name HERE!! =D
 
 Joel
+<<<<<<< HEAD:examples/berni_is_immature.txt
+
+That is what happens when you are always the first trying to push and pull
+
+Jacobo
+=======
 Marc
+>>>>>>> f80d1aee9f787ba381d26699ec79098c44903c07:berni_is_immature.txt
